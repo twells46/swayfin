@@ -58,8 +58,7 @@ dnf5 install -y \
     brightnessctl \
     playerctl \
     polkit-gnome \
-    xdg-user-dirs \
-    flatpak
+    xdg-user-dirs
 
 echo "Additional tools installed"
 echo "::endgroup::"
