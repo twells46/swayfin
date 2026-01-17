@@ -57,7 +57,6 @@ echo "::group:: Install Additional Wayland Tools"
 dnf5 install -y \
     brightnessctl \
     playerctl \
-    polkit-gnome \
     xdg-user-dirs
 
 echo "Additional tools installed"
